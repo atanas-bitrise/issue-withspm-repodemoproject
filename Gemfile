@@ -6,9 +6,9 @@ source 'https://rubygems.org'
 gem 'cocoapods'
 
 
-gem 'cocoapods-dependencies'
+# gem 'cocoapods-dependencies'
 
-gem 'cocoapods-patch'
+# gem 'cocoapods-patch'
 # gem 'fastlane'
 # gem 'fastlane-plugin-appcenter'
 # gem 'fastlane-plugin-instabug_official'
